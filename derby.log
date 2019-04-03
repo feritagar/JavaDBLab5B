@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 03 16:38:50 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0169-e523-e8f9-000006c49c08 
+on database directory E:\FERIT WCTC CLASSES\Spring 18-19\Distributed Java\Week 4 - Unit 4 JSP\JavaDBLab5B\StoreDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Program%20Files/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=E:\FERIT WCTC CLASSES\Spring 18-19\Distributed Java\Week 4 - Unit 4 JSP\JavaDBLab5B
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
